@@ -69,7 +69,7 @@ export default function CounterApp() {
         </div>
       </motion.div>
 
-      <p className="mt-8 text-gray-500 text-sm font-mono">Build with Next.js 15 & Framer Motion</p>
+      <p className="mt-8 text-gray-500 text-sm font-mono">Build with React.js  & Framer Motion</p>
     </div>
   );
 }
